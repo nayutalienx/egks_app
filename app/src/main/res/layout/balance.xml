@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_bg"
+    android:orientation="vertical"
+    android:padding="@dimen/widget_margin">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="146dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="6dp"
+
+        android:fontFamily="@font/roboto"
+        android:text="На карте ЕГКС:"
+
+        android:textColor="#003D66"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/appwidget_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+
+            android:layout_marginLeft="6dp"
+            android:contentDescription="@string/appwidget_text"
+            android:fontFamily="@font/roboto"
+            android:textAlignment="center"
+            android:text="000.00 руб"
+            android:textColor="#003D66"
+            android:textSize="17sp" />
+        <Button
+            android:id="@+id/widget_update"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/updatebtn"
+
+
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

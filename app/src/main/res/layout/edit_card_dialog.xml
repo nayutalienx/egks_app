@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <EditText
+        android:id="@+id/modal_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColorLink="#00629F"
+        android:textColorHint="#00629F"
+        android:outlineSpotShadowColor="#00629F"
+        android:textColorHighlight="#00629F"
+        android:textColor="@color/colorPrimary"
+        android:inputType="textPersonName"
+        android:hint="Ввведите имя носителя"
+        />
+
+    <EditText
+        android:id="@+id/modal_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="@color/colorPrimary"
+        android:layout_below="@+id/modal_name"
+        android:textColorLink="#00629F"
+        android:textColorHint="#00629F"
+        android:outlineSpotShadowColor="#00629F"
+        android:textColorHighlight="#00629F"
+        android:hint="Введите номер карты(000xxxxxxx)"
+        android:inputType="number" />
+
+</RelativeLayout>

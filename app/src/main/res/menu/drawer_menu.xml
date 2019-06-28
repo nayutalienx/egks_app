@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+
+    >
+
+    <group android:checkableBehavior="single"
+        >
+        <item android:id="@+id/nav_main"
+            android:title="Главное окно"
+            android:layout_gravity="center"
+            />
+        <item android:id="@+id/nav_manager"
+            android:title="Менеджер карт"
+            android:layout_gravity="center"
+            />
+        <item android:id="@+id/nav_payment"
+            android:title="Онлайн оплата "
+            android:layout_gravity="center"
+            />
+
+    </group>
+
+
+</menu>
