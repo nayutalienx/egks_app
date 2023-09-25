@@ -4,7 +4,7 @@ web design project for university subject
 
 screenshots:
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/QDhJw0m/Screenshot-20190629-134452.png" alt="Screenshot-20190629-134452" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LZQvNk8/Screenshot-20190629-134504.png" alt="Screenshot-20190629-134504" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZGW4Hsf/Screenshot-20190629-134511.png" alt="Screenshot-20190629-134511" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/BKR5Cnn/Screenshot-20190629-134527.png" alt="Screenshot-20190629-134527" border="0"></a>
+<img src="https://github.com/nayutalienx/egks_app/blob/master/1.png" alt="Screenshot-20190629-134452" border="0">
+<img src="https://github.com/nayutalienx/egks_app/blob/master/2.png" alt="Screenshot-20190629-134504" border="0">
+<img src="https://github.com/nayutalienx/egks_app/blob/master/3.png" alt="Screenshot-20190629-134511" border="0">
+<img src="https://github.com/nayutalienx/egks_app/blob/master/4.png" alt="Screenshot-20190629-134527" border="0">
